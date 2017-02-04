@@ -1,5 +1,6 @@
 ' HOMING ROUTINE
 ' WRITTEN FOR FABMO PLATFORM
+' ... not working on Z yet
 
 &approach_speed_fast = 1.0
 &approach_speed_slow = 0.25
